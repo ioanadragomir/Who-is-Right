@@ -1,0 +1,28 @@
+#one{
+  color: white;
+  background-color: red;
+}
+#two{
+  color: white;
+  background-color: red;
+}
+#three{
+color: white;
+background-color: red;
+}
+#about_blue{
+  border-style: solid;
+  border-width: 3px;
+  background-color: #6495ED;
+}
+#about_yellow{
+  border-style: solid;
+  border-width: 3px;
+  background-color: #FFEBCD;
+}
+.blue{
+  color: blue;
+}
+.yellow{
+  color: orange;
+}
